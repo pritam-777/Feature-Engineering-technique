@@ -10,3 +10,23 @@
 7.Leave One Out Encoding (LOOE)
 8. Weight of Evidence Encoding
 9. Label Encoding 
+
+
+# Different Feature Transformation and Scaling Techniques
+### 1.Standardization
+
+### 2.MinMax Scaler
+
+### 3.MinMax Scaler
+
+### 4.Robust Scaler
+
+### 5.Quantile Transformer Scaler
+
+### 6.Log Transform
+
+### 7.Reciprocal Transformation
+
+### 8.Square Root Transformation
+
+### 9.Power transforms
